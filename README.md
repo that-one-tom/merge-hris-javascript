@@ -1,3 +1,9 @@
+## Deprecation Notice
+
+Merge has released a new version of our [Typescript SDK](https://github.com/merge-api/merge-node-client/). As part of that release, we will no longer make updates or bug fixes to the deprecated SDKs.
+
+For information about the deprecation notice see our [help center](https://help.merge.dev/en/collections/4258952-sdks) and for information about migrating to the Typescript SDK, see the [Typescript Migration Guide](https://help.merge.dev/en/articles/8229417-advanced-node-sdk-migration-guide).
+
 # merge_hris_api
 
 MergeHrisApi - JavaScript client for merge_hris_api
